@@ -9,6 +9,6 @@ Trabalho final relativo a matéria Optativa 2 - Desenvolvimento mobile, do Insti
 # Telas
 
 <div align=center>
-    <img alt="Lista de deputados" src="screenshot/Capture1.PNG" width="250" />
-    <img alt="Dispesas Deputado" src="screenshot/Capture2.PNG" width="250" />
+    <img alt="Lista de deputados" src="screenshot/Capture1.PNG" width="330" />
+    <img alt="Dispesas Deputado" src="screenshot/Capture2.PNG" width="330" />
 </div>
